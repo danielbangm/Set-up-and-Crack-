@@ -36,7 +36,7 @@ I opened Firefox as user Kali and downloaded the zip file. File will download to
 
 -  Step 2: Let's Unzip the file and validate
 
-First and foremost let’s sudo as root so that we don’t have to worry about privledges. "sudo su"
+First and foremost let’s sudo as root so that we don’t have to worry about privledges. let's use the command <b>su su</b>
 ![image](https://github.com/danielbangm/Set-up-and-Crack-/assets/22795502/8028ce48-63fe-4ea5-9120-94a4d540c1e7)
 
 Now let's unzip the file and validate by using the command <b>unzip john-files.xip</b> follow by <b>ls -al</b>
