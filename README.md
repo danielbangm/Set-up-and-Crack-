@@ -55,6 +55,7 @@ Now that we have the file to be potentially decrypted, we are going to use a spe
 - Step 5: Continuing Decryption with John the Ripper
 
 Go back to the other window, location: /home/Kali/Downloads Now, Let’s try to descript. Enter the following command: <b>john –wordlist=/usr/share/wordlists/rockyou.txt –format-crypt /home/kali/Downloads/mypasswd.txt</b> This may take a while. It depends on the CPU and Memory of the System. We told it to use the word list rockyou.txt and use the “crypt” format, which is the encryption that our Linux is using for the password encryption.
+
 ![image](https://github.com/danielbangm/Set-up-and-Crack-/assets/22795502/fb313613-d72f-4032-8ae2-95598ba3f173)
 
 At this point, “John the Ripper” will start trying to unencrypt the password file. This can take some time. Days as an example. For the purposes of this lab, just let it go for an hour or if you want to have fun, then let it run overnight
