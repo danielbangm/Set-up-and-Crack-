@@ -36,10 +36,10 @@ I opened Firefox as user Kali and downloaded the zip file. File will download to
 
 -  Step 2: Let's Unzip the file and validate
 
-First and foremost let’s sudo as root so that we don’t have to worry about privledges. let's use the command <b>su su</b>
+First and foremost let’s sudo as root so that we don’t have to worry about privledges. let's use the command <b>sudo su</b>
 ![image](https://github.com/danielbangm/Set-up-and-Crack-/assets/22795502/8028ce48-63fe-4ea5-9120-94a4d540c1e7)
 
-Now let's unzip the file and validate by using the command <b>unzip john-files.xip</b> follow by <b>ls -al</b>
+Now let's unzip the file and validate by using the command <b>unzip john-files.zip</b> follow by <b>ls -al</b>
 ![image](https://github.com/danielbangm/Set-up-and-Crack-/assets/22795502/8d7498ec-b6bc-4f8b-a3eb-46e2f8c56628)
 
 - Step 3: Test and Benchmarch John the Ripper
